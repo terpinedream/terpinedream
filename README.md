@@ -1,16 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**terpinedream/terpinedream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # **■█ TERPINEDREAM █■**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  > **DEVELOPER ⋆ LINUX ENTHUSIAST ⋆ OPEN-SOURCE CONTRIBUTOR**
+</div>
+
+## **THE BASICS⤵**
+```
+┌─────────────────────────────────────────────────────┐
+│  ► Thinkpad T570 | i7 6600u | 40g RAM               │
+│  ► Arch Linux + Hyprland                            │
+│  ► Road to Full Stack Development                   │
+│  ► Open Source Advocacy and Education               │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠 **TECH STACK**
+
+### **> Systems & Environments**
+```bash
+▪ Arch Linux 
+▪ Hyprland 
+▪ Fish Shell
+▪ Kitty
+▪ Fedora
+```
+
+### **> Programming Languages**
+```c
+▪ C
+▪ Python
+▪ Lua
+▪ Bash
+```
+
+### **> Web Technologies**
+```html
+▪ HTML
+▪ CSS
+▪ JavaScript
+```
+
+### **> Tools & Workflow**
+```vim
+▪ LazyVim
+▪ Git
+▪ Cursor
+```
+
+---
+
+<div align="center">
+  
+## **FEATURED PROJECTS ✔**
+
+### 🐧 **[Tuxagotchi](https://github.com/terpinedream/tuxagotchi)**
+
+> *Interactive terminal pet that lives off your productivity*
+
+
+
+---
+
+## **★GITHUB STATS★**
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=terpinedream&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terpinedream&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+
+## 📫 **CONNECT**
+
+
+
+```
+┌─ FIND ME ELSEWHERE ────────────────────────────────────┐
+│                                                        │
+│  ► TikTok: @thinkpad.enjoyer                           |
+│  ► X: terp1nedream                                     |
+│  ► GitHub: You're already here!                        │
+│  ► Open to collaboration & cool projects               │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+---
+
+  
+## **GET IT SHIPPED.**
+
+</div>
