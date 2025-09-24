@@ -1,6 +1,6 @@
 <div align="center">
 
-  # **TERPINEDREAM **
+  # **TERPINEDREAM**
 
 
   > **DEVELOPER ⋆ LINUX ENTHUSIAST ⋆ OPEN-SOURCE CONTRIBUTOR**
