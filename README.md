@@ -1,12 +1,12 @@
 <div align="center">
 
-  # **■█ TERPINEDREAM █■**
+  # **TERPINEDREAM **
 
 
   > **DEVELOPER ⋆ LINUX ENTHUSIAST ⋆ OPEN-SOURCE CONTRIBUTOR**
 </div>
 
-## **THE BASICS⤵**
+## ****
 ```
 ┌─────────────────────────────────────────────────────┐
 │  ► Thinkpad T570 | i7 6600u | 40g RAM               │
@@ -29,7 +29,7 @@
 ▪ Fedora
 ```
 
-### **> Programming Languages**
+### **Languages**
 ```c
 ▪ C
 ▪ Python
@@ -37,14 +37,14 @@
 ▪ Bash
 ```
 
-### **> Web Technologies**
+### **Web**
 ```html
 ▪ HTML
 ▪ CSS
 ▪ JavaScript
 ```
 
-### **> Tools & Workflow**
+### **Tools & Workflow**
 ```vim
 ▪ LazyVim
 ▪ Git
@@ -57,7 +57,7 @@
   
 ## **FEATURED PROJECTS ✔**
 
-### 🐧 **[Tuxagotchi](https://github.com/terpinedream/tuxagotchi)**
+###  **[Tuxagotchi](https://github.com/terpinedream/tuxagotchi)**
 
 > *Interactive terminal pet that lives off your productivity*
 
