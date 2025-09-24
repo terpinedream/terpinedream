@@ -6,7 +6,7 @@
   > **DEVELOPER ⋆ LINUX ENTHUSIAST ⋆ OPEN-SOURCE CONTRIBUTOR**
 </div>
 
-## ****
+## 
 ```
 ┌─────────────────────────────────────────────────────┐
 │  ► Thinkpad T570 | i7 6600u | 40g RAM               │
@@ -20,7 +20,7 @@
 
 ## 🛠 **TECH STACK**
 
-### **> Systems & Environments**
+### **Systems & Environments**
 ```bash
 ▪ Arch Linux 
 ▪ Hyprland 
