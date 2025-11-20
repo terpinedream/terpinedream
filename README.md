@@ -1,88 +1,50 @@
-<div align="center">
+# **TERPINEDREAM** 
 
-  # **TERPINEDREAM**
+> Free software, free people. 
 
-
-  > **DEVELOPER ⋆ LINUX ENTHUSIAST ⋆ OPEN-SOURCE CONTRIBUTOR**
-</div>
-
-## 
+##
 ```
-┌─────────────────────────────────────────────────────┐
-│  ► Thinkpad T570 | i7 6600u | 40g RAM               │
-│  ► Arch Linux + Hyprland                            │
-│  ► Road to Full Stack Development                   │
-│  ► Open Source Advocacy and Education               │
-└─────────────────────────────────────────────────────┘
+- OSS Developer 
+- Arch Linux Testing Team 
+- Lifelong Tinkerer 
 ```
 
----
-
-## 🛠 **TECH STACK**
-
-### **Systems & Environments**
-```bash
-▪ Arch Linux 
-▪ Hyprland 
-▪ Fish Shell
-▪ Kitty
-▪ Fedora
+## **TECH STACK**
+```bash 
+- Arch Linux 
+- Hyprland
+- Fish Shell 
+- Kitty 
 ```
 
-### **Languages**
-```c
-▪ C
-▪ Python
-▪ Lua
-▪ Bash
+## **LANGUAGES**
 ```
+- C 
+- Python 
+- Lua 
+- Bash 
+- Shell 
+``` 
 
-### **Web**
-```html
-▪ HTML
-▪ CSS
-▪ JavaScript
+## **WEB**
+```html 
+- HTML 
+- CSS 
+- JavaScript 
+- Django 
+- PostgreSQL 
+- SQLite 
 ```
-
-### **Tools & Workflow**
-```vim
-▪ LazyVim
-▪ Git
-▪ Cursor
+## **TOOLS**
 ```
+- LazyVim 
+- Git 
+- Cursor 
+- SSH/Local Hosting 
+```
+--- 
 
----
-
-<div align="center">
-  
-## **FEATURED PROJECTS ✔**
-
-###  **[Tuxagotchi](https://github.com/terpinedream/tuxagotchi)**
-
-> *Interactive terminal pet that lives off your productivity*
-
-
-
----
-
-## **★GITHUB STATS★**
-
-</div>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=terpinedream&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terpinedream&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-
-## 📫 **CONNECT**
+## **CONNECT**
 
 
 
@@ -96,10 +58,8 @@
 │                                                        │
 └────────────────────────────────────────────────────────┘
 ```
-
----
-
-  
-## **GET IT SHIPPED.**
-
-</div>
+```
+```
+```
+```
+```
