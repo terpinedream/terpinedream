@@ -1,6 +1,6 @@
 # **TERPINEDREAM** 
 
-> Free software, free people. 
+> *Free Software, Free People.* 
 
 ##
 ```
@@ -57,9 +57,4 @@
 │  ► Open to collaboration & cool projects               │
 │                                                        │
 └────────────────────────────────────────────────────────┘
-```
-```
-```
-```
-```
 ```
