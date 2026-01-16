@@ -4,22 +4,15 @@
 
 ##
 ```
-- OSS Developer 
-- Arch Linux Testing Team 
-- Lifelong Tinkerer 
-```
-
-## **TECH STACK**
-```bash 
-- Arch Linux 
-- Hyprland
-- Fish Shell 
-- Kitty 
+- UNIX/Linux  
+- Embedded Systems
+- Low-level Programming
+- Full Stack 
 ```
 
 ## **LANGUAGES**
 ```
-- C 
+- C/C++ 
 - Python 
 - Lua 
 - Bash 
@@ -38,9 +31,7 @@
 ## **TOOLS**
 ```
 - LazyVim 
-- Git 
-- Cursor 
-- SSH/Local Hosting 
+- Cursor IDE 
 ```
 --- 
 
