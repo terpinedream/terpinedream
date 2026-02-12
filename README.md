@@ -24,15 +24,3 @@
 - Agile Methodology 
 - Fish Shell 
 ```
-## **CONNECT**
-```
-┌─ FIND ME ELSEWHERE ────────────────────────────────────┐
-│                                                        │
-│  ► TikTok: @thinkpad.enjoyer                           |
-│  ► X: terp1nedream                                     |
-│  ► GitHub: You're already here!                        │
-│  ► Open to collaboration & cool projects               │
-│                                                        │
-└────────────────────────────────────────────────────────┘
-```
-
