@@ -1,44 +1,30 @@
-# **TERPINEDREAM** 
-
-> *Free Software, Free People.* 
-
-##
-```
-- UNIX/Linux  
-- Embedded Systems
-- Low-level Programming
-- Full Stack 
-```
-
-## **LANGUAGES**
-```
-- C/C++ 
-- Python 
-- Lua 
-- Bash 
-- Shell 
-``` 
-
-## **WEB**
-```html 
-- HTML 
-- CSS 
-- JavaScript 
-- Django 
-- PostgreSQL 
-- SQLite 
-```
-## **TOOLS**
-```
-- LazyVim 
-- Cursor IDE 
-```
+# **terpinedream** 
+*Free Software, Free People.*
 --- 
-
+```
+# Interests & Skills
+- UNIX/Linux 
+- FOSS 
+- Data Analysis
+- Automation
+- Low-level Programming
+```
+```
+# Languages
+- C/C++
+- Python
+- Lua/Bash/Shell
+- TypeScript
+- JavaScript
+```
+```
+# Tools & Frameworks 
+- Vim/LazyVim 
+- Cursor IDE 
+- Agile Methodology 
+- Fish Shell 
+```
 ## **CONNECT**
-
-
-
 ```
 ┌─ FIND ME ELSEWHERE ────────────────────────────────────┐
 │                                                        │
@@ -49,3 +35,4 @@
 │                                                        │
 └────────────────────────────────────────────────────────┘
 ```
+
