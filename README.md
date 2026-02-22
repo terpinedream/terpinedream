@@ -1,14 +1,18 @@
-# **terpinedream** 
-*Free Software, Free People.*
---- 
+# **terpinedream**
+
+_Free Software, Free People._
+
+---
+
 ```
 # Interests & Skills
-- UNIX/Linux 
-- FOSS 
+- UNIX/Linux
+- FOSS
 - Data Analysis
 - Automation
 - Low-level Programming
 ```
+
 ```
 # Languages
 - C/C++
@@ -17,13 +21,15 @@
 - TypeScript
 - JavaScript
 ```
-```
-# Tools & Frameworks 
-- Vim/LazyVim 
-- Cursor IDE 
-- Agile Methodology 
-- Fish Shell 
-```
-<img src="https://stats.vercel.app/api?username=terpinedream&show_icons=true" />
 
-<img src="https://stats.vercel.app/api/top-langs/?username=terpinedream&layout=compact" />
+```
+# Tools & Frameworks
+- Vim/LazyVim
+- Cursor IDE
+- Agile Methodology
+- Fish Shell
+```
+
+<img src=".github/readme-stats/stats.svg" />
+
+<img src=".github/readme-stats/top-langs.svg" />
