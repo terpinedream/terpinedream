@@ -17,7 +17,7 @@ jobs:
         with:
           image-file: .github/readme-stats/userstats.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_FOR_STATS }}
 
       - name: Commit and push
         run: |
