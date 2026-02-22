@@ -24,3 +24,6 @@
 - Agile Methodology 
 - Fish Shell 
 ```
+<img src="https://stats.vercel.app/api?username=terpinedream&show_icons=true" />
+
+<img src="https://stats.vercel.app/api/top-langs/?username=terpinedream&layout=compact" />
