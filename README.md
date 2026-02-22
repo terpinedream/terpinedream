@@ -30,6 +30,4 @@ _Free Software, Free People._
 - Fish Shell
 ```
 
-<img src=".github/readme-stats/stats.svg" />
 
-<img src=".github/readme-stats/top-langs.svg" />
