@@ -30,4 +30,4 @@ _Free Software, Free People._
 - Fish Shell
 ```
 
-<img src=".github/readme-stats/userstats.svg" />
+
