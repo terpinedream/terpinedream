@@ -3,29 +3,26 @@
 _Free Software, Free People._
 
 ---
-
-```
 # Interests & Skills
+```
 - UNIX/Linux
-- FOSS
+- Embedded Systems
 - Data Analysis
 - Automation
-- Low-level Programming
-```
-
+- Self Hosting
 ```
 # Languages
+```
 - C/C++
 - Python
 - Lua/Bash/Shell
 - TypeScript
 - JavaScript
 ```
-
-```
 # Tools & Frameworks
-- Vim/LazyVim
-- Cursor IDE
+```
+- LazyVim
+- Cursor 
 - Agile Methodology
 - Fish Shell
 ```
