@@ -3,7 +3,7 @@
 _Free Software, Free People._
 
 ---
-# Interests & Skills
+### Interests & Skills
 ```
 - UNIX/Linux
 - Embedded Systems
@@ -11,7 +11,7 @@ _Free Software, Free People._
 - Automation
 - Self Hosting
 ```
-# Languages
+### Languages
 ```
 - C/C++
 - Python
@@ -19,7 +19,7 @@ _Free Software, Free People._
 - TypeScript
 - JavaScript
 ```
-# Tools & Frameworks
+### Tools & Frameworks
 ```
 - LazyVim
 - Cursor 
